@@ -213,7 +213,7 @@ function Display_Evaluation_formative() {
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
                                         <a href="../../FONCTIONS/Eval_exp.docx" download="FONCTIONS/Eval_exp.doc"><p>Télécharger le sujet : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
-                                        <a href="../../FONCTIONS/Eval_exp_correction.docx" download="FONCTIONS/Eval_exp_correction.doc"><p>Télécharger la correction : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <!--<a href="../../FONCTIONS/Eval_exp_correction.docx" download="FONCTIONS/Eval_exp_correction.doc"><p>Télécharger la correction : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>-->
                                     </div>
 
                                     <div class="col-12">
