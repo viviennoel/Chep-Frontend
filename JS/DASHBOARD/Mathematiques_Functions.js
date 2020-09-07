@@ -46,8 +46,8 @@ function Display_Evaluation_Diagnostic() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/Eval_diagnostique.doc" download="FONCTIONS/Eval_diagnostique.doc"><p>Télécharger l'évaluation : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
-                                        <a href="FONCTIONS/Eval_diagnostique_correction.doc" download="FONCTIONS/Eval_diagnostique_correction.doc"><p>Télécharger la correction : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="../../FONCTIONS/Eval_diagnostique.doc" download="FONCTIONS/Eval_diagnostique.doc"><p>Télécharger l'évaluation : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="../../FONCTIONS/Eval_diagnostique_correction.doc" download="FONCTIONS/Eval_diagnostique_correction.doc"><p>Télécharger la correction : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                     </div>
                                 </div>
                             </div>
