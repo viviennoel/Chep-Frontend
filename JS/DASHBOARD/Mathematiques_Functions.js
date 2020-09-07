@@ -95,7 +95,7 @@ function Display_Cours() {
 </div> -->
 
 <div class="part_cours mt-5">
-                                <!-- PREMIERE PARTIE - La fonction affine -->
+                                <!-- PREMIERE PARTIE - La fonction polynome -->
                                 <h2 class="pt-5">Fonction polynome</h2>
                                 <h3 class="pt-5">Téléchargez le powerpoint utilisé en cours ci dessous</h3>
                                 <div class="row pt-5 pb-5">
@@ -103,7 +103,7 @@ function Display_Cours() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/cours.pdf" download="FONCTIONS/cours.pdf"><p>Télécharger le cours : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="cours.pdf" download="cours.pdf"><p>Télécharger le cours : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                     </div>
 
                                     <div class="col-12 blanc">
@@ -123,8 +123,8 @@ function Display_Cours() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/Cours_pdf.ppt" download="Cours_pdf.ppt"><p>Télécharger le diaporama : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
-                                        <a href="FONCTIONS/cours_exp.pdf" download="cours_exp.pdf"><p>Télécharger le cours : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="Cours_pdf.ppt" download="Cours_pdf.ppt"><p>Télécharger le diaporama : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="cours_exp.pdf" download="cours_exp.pdf"><p>Télécharger le cours : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                     </div>
 
                                     <div class="col-12 blanc">
@@ -143,8 +143,8 @@ function Display_Cours() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/Cours_pdf.ppt" download="Cours_pdf.ppt"><p>Télécharger le diaporama : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
-                                        <a href="FONCTIONS/cours_ln.pdf" download="cours_ln.pdf"><p>Télécharger le cours : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="Cours_pdf.ppt" download="Cours_pdf.ppt"><p>Télécharger le diaporama : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="cours_ln.pdf" download="cours_ln.pdf"><p>Télécharger le cours : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                      </div>
 
                                     <div class="col-12 blanc">
@@ -181,7 +181,7 @@ function Display_Exercices() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/exercices.pdf" download="FONCTIONS/exercices.pdf"><p>Télécharger les exercices : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="exercices.pdf" download="FONCTIONS/exercices.pdf"><p>Télécharger les exercices : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                     </div>
                                 </div>
                             </div>
@@ -212,8 +212,8 @@ function Display_Evaluation_formative() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/Eval_exp.doc" download="FONCTIONS/Eval_exp.doc"><p>Télécharger le sujet : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
-                                        <a href="FONCTIONS/Eval_exp_correction.doc" download="FONCTIONS/Eval_exp_correction.doc"><p>Télécharger la correction : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="Eval_exp.doc" download="FONCTIONS/Eval_exp.doc"><p>Télécharger le sujet : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="Eval_exp_correction.doc" download="FONCTIONS/Eval_exp_correction.doc"><p>Télécharger la correction : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                     </div>
 
                                     <div class="col-12">
@@ -254,7 +254,7 @@ function Display_Projet() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="FONCTIONS/Evaluation_Fonctions_graph.pdf" download="Cours - Les fonctions usuelles"><p>Télécharger l'énoncer : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="Evaluation_Fonctions_graph.pdf" download="Cours - Les fonctions usuelles"><p>Télécharger l'énoncer : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                         <p>Le projet le plus concluant sera mis en ligne!</p>
                                     </div>
 
