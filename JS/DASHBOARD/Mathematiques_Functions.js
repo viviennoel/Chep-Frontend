@@ -254,7 +254,7 @@ function Display_Projet() {
                                         <img src="../../IMAGES/TEACHING/Arrow_right.png" alt="Here Evaluation"/>
                                     </div>
                                     <div class="Evaluation_File col-md-6 m-auto">
-                                        <a href="../../FONCTIONS/Projet.pdf" download="Cours - Les fonctions usuelles"><p>Télécharger l'énoncer : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
+                                        <a href="../../FONCTIONS/Projet.doc" download="Cours - Les fonctions usuelles"><p>Télécharger l'énoncer : <img src="../../IMAGES/TEACHING/Download.png" alt="Evaluation Diagnostique" /></p></a>
                                         <p>Le projet le plus concluant sera mis en ligne!</p>
                                     </div>
 
